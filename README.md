@@ -4,7 +4,9 @@ Curia is a collective of legal professionals from LexDAO providing a resolution 
 
 It fills the gap between tokenized juror services like Kleros and Aragon Court with curated panels that can provide judgments on-and-off-chain that are enforceable by a court of law.
 
-📜 [**LitePaper**](https://docs.google.com/document/d/1yN9ShyUc-4wyNh0fLAioYS8Tmq22UH4gg2e36SuoZjA/edit)****
+📜 [**LitePaper**](https://mirror.xyz/cattin.eth/WvxhuxLuZIObP2lXopL81_c9YD4j6-fQWVjgY3aKPHY)****
+
+🏛 [**Docs**](https://app.gitbook.com/o/LHHv7MaTilmPwHN4eilv/s/0vi3Zmh2XaWRIPKcxtAi/)****
 
 ### Let's get started
 
